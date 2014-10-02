@@ -1,4 +1,5 @@
 # UXE - CSS Core Architecture
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AngelaDiaFazio/css-core-architecture?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 For this assignment, students will be required to build a small single page project that encompasses the key points of today's lecture.
 
